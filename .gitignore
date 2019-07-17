@@ -1,0 +1,9 @@
+# Ignore all text files
+*.txt
+
+# Ignore all complied python files
+*.pyc
+
+/__pycache__
+
+settings.py
